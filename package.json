@@ -1,0 +1,27 @@
+{
+  "name": "react-native-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.4.5",
+    "body-parser": "^1.4.3",
+    "nodejs-websocket":"^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tlitiwwhtmi/react-native-chatserver.git"
+  },
+  "author": "duanhao",
+  "bugs": {
+    "url": "https://github.com/tlitiwwhtmi/react-native-chatserver/issues"
+  },
+  "engines": {
+    "node": "0.12.x"
+  }
+}
